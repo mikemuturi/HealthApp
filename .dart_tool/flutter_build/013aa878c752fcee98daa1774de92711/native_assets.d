@@ -1,0 +1,1 @@
+ /home/mike/teamgrey-1/mediaquirks/.dart_tool/flutter_build/013aa878c752fcee98daa1774de92711/native_assets.yaml: 
